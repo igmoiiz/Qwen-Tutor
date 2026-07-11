@@ -1,0 +1,87 @@
+PROPRIETARY SOFTWARE LICENSE
+
+Copyright (c) 2026 Moiz Baloch
+All Rights Reserved.
+
+Contact: moaiz3110@gmail.com | +92 306 789 2235
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TERMS AND CONDITIONS
+
+1. DEFINITIONS
+   "Software" refers to all source code, Jupyter notebooks, scripts, model
+   configurations, training pipelines, data-processing utilities, and any
+   associated documentation contained in this repository, authored by
+   Moiz Baloch ("the Author").
+
+2. GRANT OF RIGHTS — RESTRICTED
+   NO rights are granted by default. This Software and all associated files
+   are the exclusive intellectual property of the Author. No part of this
+   Software may be used, copied, modified, merged, published, distributed,
+   sublicensed, sold, or incorporated into other products, either in source
+   or binary form, without the PRIOR EXPLICIT WRITTEN CONSENT of the Author.
+
+3. OBTAINING CONSENT
+   To request permission to use, adapt, or redistribute this Software, you
+   must contact the Author directly:
+
+       Name:    Moiz Baloch
+       Email:   moaiz3110@gmail.com
+       Phone:   +92 306 789 2235
+
+   Permission requests must specify:
+     a) The intended use of the Software.
+     b) The name of the individual or organization requesting access.
+     c) The scope and duration of the intended usage.
+     d) Whether the derivative work will be published or commercialized.
+
+4. CONDITIONAL USE — ATTRIBUTION REQUIREMENTS
+   If written consent is granted by the Author, any permitted use of this
+   Software — whether in a research paper, project, product, presentation,
+   tutorial, course, blog post, or any other medium — MUST include ALL of
+   the following attribution elements:
+
+       Original Author:  Moiz Baloch
+       Email:            moaiz3110@gmail.com
+       Repository:       [URL of this repository]
+       Year:             2026
+
+   Attribution must be:
+     a) Clearly visible and not buried in footnotes or hidden metadata.
+     b) Included in any README, paper abstract, credits section, or
+        equivalent public-facing documentation.
+     c) Maintained in all derivative works and forks.
+
+5. PROHIBITED ACTIONS (WITHOUT PRIOR CONSENT)
+   The following actions are strictly prohibited:
+     a) Using this Software or any part of it in academic research or
+        publications without attribution and consent.
+     b) Incorporating this Software into commercial products or services.
+     c) Redistributing this Software under a different license.
+     d) Removing, obscuring, or altering this license notice.
+     e) Training, fine-tuning, or deploying machine learning models using
+        the pipeline described herein without the Author's permission.
+     f) Representing this Software as your own work.
+
+6. ENFORCEMENT
+   Any unauthorized use of this Software constitutes a violation of
+   applicable copyright law. The Author reserves the right to pursue legal
+   remedies to the fullest extent permitted by law.
+
+7. DISCLAIMER OF WARRANTIES
+   THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+   IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING
+   FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+   DEALINGS IN THE SOFTWARE.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+By accessing, downloading, or viewing any file in this repository you
+acknowledge that you have read, understood, and agree to be bound by the
+terms of this license.
+
+For all inquiries: moaiz3110@gmail.com
