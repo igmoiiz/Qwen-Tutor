@@ -4,7 +4,7 @@
 
 **Fine-tuning a 1.5-billion-parameter language model to solve grade-school math problems step-by-step using QLoRA and supervised fine-tuning.**
 
-[![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)](./LICENSE)
+[![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg?style=flat)](./LICENSE.md)
 [![Python](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.10-orange.svg)](https://pytorch.org/)
 [![Transformers](https://img.shields.io/badge/HF_Transformers-4.56.1-yellow.svg)](https://huggingface.co/docs/transformers)
