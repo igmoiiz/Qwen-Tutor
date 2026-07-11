@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+.eggs/
+wheels/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.env
+.venv
+venv/
+ENV/
+env/
+
+# Model checkpoints and training outputs
+math_tutor_qwen/
+outputs/
+checkpoints/
+runs/
+wandb/
+
+# HuggingFace model cache (large files)
+*.bin
+*.safetensors
+*.gguf
+*.ggml
+*.pt
+*.pth
+
+# Except notebook — keep it
+!finetuned-math-tutor-qwen.ipynb
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# Data cache
+data/
+datasets_cache/
